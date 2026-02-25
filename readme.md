@@ -17,6 +17,15 @@
 
 <br>
 
+## 👨‍💻 Миний тухай
+
+- 🔐 Кибер аюулгүй байдал, програмчлалд сонирхолтой
+- 🛠️ Жижиг төсөл, скрипт хийж сурч байна
+- 📂 Туршилтын төслүүдээ энэ репозитори дээр хуваалцаж байна
+- 🌱 Код бичиж, аюулгүй байдлыг судалж байна
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chikachimka8-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=7b2cbf" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=chikachimka8-cyber&theme=radical&hide_border=true&background=1a1a2e&ring=00d9ff&fire=7b2cbf" alt="Streak" height="165" />
@@ -24,33 +33,12 @@
 
 <br>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
+## 🌍 Холбоо барих
 
-### Миний тухай
-
-Кибер аюулгүй байдал, програмчлал — миний сонирхол. Жижиг төсөл, скрипт хийж сурч, туршилтын ажлуудаа энд хуваалцаж байна. Энэ репозитори бол миний сургалтын талбар.
-
-    </td>
-    <td width="50%" valign="top">
-
-### Холбоо барих
-
-<p>
-  <a href="https://github.com/chikachimka8-cyber">
-    <img src="https://img.shields.io/badge/GitHub-@chikachimka8--cyber-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/chikachimka8-cyber/chikachimka8-cyber/issues">
-    <img src="https://img.shields.io/badge/Contact-Issues-1967D2?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **GitHub** | [@chikachimka8-cyber](https://github.com/chikachimka8-cyber) |
+| **Асуулт / Санал** | [Issue үүсгэх](https://github.com/chikachimka8-cyber/chikachimka8-cyber/issues) |
 
 <br>
 
@@ -61,3 +49,11 @@
 <p align="center">
   <sub>Танилцсандаа баярлалаа · 2026</sub>
 </p>
+
+<details>
+<summary>🤹‍♂️ Fun Fact</summary>
+
+> Код бичих нь пазл шиг — эхлээд ойлгомжгүй, эцэст нь бүгд нийлнэ 🧩  
+> `git push` хийх бүрдээ бага зэрэг илүү сайн болж байна гэж боддог 💻🚀
+
+</details>
