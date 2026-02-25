@@ -15,32 +15,52 @@
   <img src="https://img.shields.io/badge/Development-Learning-7b2cbf?style=flat-square" />
 </p>
 
-<br>
+---
 
 ## 👨‍💻 Миний тухай
 
-- 🔐 Кибер аюулгүй байдал, програмчлалд сонирхолтой
+- 🔐 **Кибер аюулгүй байдал** болон програмчлалд сонирхолтой
 - 🛠️ Жижиг төсөл, скрипт хийж сурч байна
 - 📂 Туршилтын төслүүдээ энэ репозитори дээр хуваалцаж байна
 - 🌱 Код бичиж, аюулгүй байдлыг судалж байна
 
-<br>
+---
+
+## 🛠️ Чадвар & Сонирхол
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Cyber%20%26%20InfoSec-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20Scripting-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub-181717?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📊 GitHub статистик
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chikachimka8-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=7b2cbf" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikachimka8-cyber&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=chikachimka8-cyber&theme=radical&hide_border=true&background=1a1a2e&ring=00d9ff&fire=7b2cbf" alt="Streak" height="165" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chikachimka8-cyber&theme=radical&no-frame=true&no-bg=true&column=4" alt="Trophies" />
+</p>
 
-## 🌍 Холбоо барих
+---
+
+## 📫 Холбоо барих
 
 | | |
 |---|---|
 | **GitHub** | [@chikachimka8-cyber](https://github.com/chikachimka8-cyber) |
 | **Асуулт / Санал** | [Issue үүсгэх](https://github.com/chikachimka8-cyber/chikachimka8-cyber/issues) |
 
-<br>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer&reversal=true" alt="footer"/>
