@@ -3,12 +3,23 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=00d9ff&center=true&vCenter=true&repeat=true&random=false&width=420&lines=Cyber+Security+%E2%80%A2+Development+%E2%80%A2+Learning" alt="typing" />
+</p>
+
+<p align="center">
   <strong>Код бичиж, аюулгүй байдлыг судалдаг</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber_Security-Interest-00d9ff?style=flat-square" />
   <img src="https://img.shields.io/badge/Development-Learning-7b2cbf?style=flat-square" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chikachimka8-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=7b2cbf" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=chikachimka8-cyber&theme=radical&hide_border=true&background=1a1a2e&ring=00d9ff&fire=7b2cbf" alt="Streak" height="165" />
 </p>
 
 <br>
